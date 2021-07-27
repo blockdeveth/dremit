@@ -6,7 +6,9 @@
 Demo: https://youtu.be/T6tj0qfX3AU
 
 
-This project was bootstrapped with [Create Eth App](https://github.com/paulrberg/create-eth-app).
+This project was initially developed for HackMoney 2021, winning prizes from Compound and Consensys.
+
+Bootstrapped with [Create Eth App](https://github.com/paulrberg/create-eth-app).
 
 ## Project Structure
 
